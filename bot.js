@@ -156,7 +156,6 @@ client.on("message", message => {
    『${prefix}say / يكرر الكلام لتكتب』
    『${prefix}translate / يترجم』
    『${prefix}botserver / يحطيك سرفرات البوت بترتيب』
-   『${prefix}short / اختصار الروابط』
    『${prefix}calculate / حاسبة』
    **
            ***Administrative Commands***
